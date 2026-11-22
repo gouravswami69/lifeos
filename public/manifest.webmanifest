@@ -1,0 +1,9 @@
+{
+  "name": "lifeOS — Personal + College",
+  "short_name": "lifeOS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101512",
+  "theme_color": "#101512",
+  "description": "A calm space for college and personal life."
+}
